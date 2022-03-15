@@ -1,0 +1,65 @@
+{
+    "songs" :
+    [
+        {
+            "title" : "Shake it Off",
+            "artist" : "Taylor Swift",
+            "genres" : ["Pop"],
+            "year" : 2016 
+        },
+        {
+            "title" : "Starships",
+            "artist" : "Nicki Minaj",
+            "genres" : ["Pop", "Rap", "Hip-Hop"],
+            "year" : 2012
+        },
+        {
+            "title" : "Uptown Funk",
+            "artist" : "Bruno Mars",
+            "genres" : ["Funk", "Pop"],
+            "year" : 2014
+        },
+        {
+            "title" : "I Love It",
+            "artist" : "Icona Pop",
+            "genres" : ["Pop"],
+            "year" : 2012
+        },
+        {
+            "title" : "All the Small Things",
+            "artist" : "Blink 182",
+            "genres" : ["Pop", "Punk"],
+            "year" : 2000
+        },
+        {
+            "title" : "Hey Ya!",
+            "artist" : "Outkast",
+            "genres" : ["Soul", "Funk"],
+            "year" : 2003
+        },
+        {
+            "title" : "Chicken Fried",
+            "artist" : "Zac Brown Band",
+            "genres" : ["Country"],
+            "year" : 2005
+        },
+        {
+            "title" : "Die Young",
+            "artist" : "Kesha",
+            "genres" : ["Pop", "Hip-Hop"],
+            "year" : 2012
+        },
+        {
+            "title" : "Mr. Brightside",
+            "artist" : "The Killers",
+            "genres" : ["Alternative Rock", "New Wave"],
+            "year" : 2003
+        },
+        {
+            "title" : "Little Lion Man",
+            "artist" : "Mumford and Sons",
+            "genres" : ["Indie Folk"],
+            "year" : 2009
+        }
+    ]
+}
